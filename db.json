@@ -1,0 +1,45 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "email": "qwe@gm.com1",
+      "password": "$2a$10$LwH58wabVIb1Cb7/aaWZHeT.ZoG3Ivy8VcJTvSp0EYRQHXNFmFyJy",
+      "id": 1
+    },
+    {
+      "email": "qwe@gmail.com11r",
+      "password": "$2a$10$gDCyDNtPLbgtrtzMGmvBDOWdSKzLCuEi5cOyrFp6Tw83agSnULDnC",
+      "id": 2
+    },
+    {
+      "email": "qwe@gmail.com11gg",
+      "password": "$2a$10$oiA95JISUWj4kRSAoXx5g.S4DjCMTvLMi8Q6dEV3cnrIRi7qGMtna",
+      "id": 3
+    },
+    {
+      "email": "qwe@gmail.com11",
+      "password": "$2a$10$su2r7GDUGN002NxYO0mpRO4q8HeeKWPL/PKicPI/ACqXhKlqY/e0.",
+      "id": 4
+    },
+    {
+      "email": "qwert@gm.com112",
+      "password": "$2a$10$UXYYmxKw2tp94.TzRuCmRumDP8dwGo/WDSXZF/21l3UGC7YsSqiRS",
+      "id": 5
+    },
+    {
+      "email": "qwert@gm.com122",
+      "password": "$2a$10$Ni.2i5etD5hNF0LTKaNa4OiSCg.wPEx36wquRGae89HwGYeAbXjxW",
+      "id": 6
+    },
+    {
+      "email": "qwert@gm.com123",
+      "password": "$2a$10$CqecSRwqZZq6g0iO6DWH0e0BOJb.nc.3OydlZIVcNEaA9Tc7QfdxG",
+      "id": 7
+    },
+    {
+      "email": "qw1@gmail.com1",
+      "password": "$2a$10$BY50gL5JVXFR/GaUpkRuVu8o/i.T4zFjTRJNyksEEmdNitUhcRxlq",
+      "id": 8
+    }
+  ]
+}

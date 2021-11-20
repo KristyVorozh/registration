@@ -1,0 +1,43 @@
+.cardItem {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img_logo {
+    width: 80px;
+    position: absolute;
+    margin-top: -54px;
+    padding: 7px;
+    background: #e7e3e3;
+    border-radius: 109px;
+}
+.cardContentItem {
+    padding: 58px!important;
+    text-align: center;
+}
+.boxItem {
+    background-color: #82c5b6!important;
+}
+.cardLogin {
+    width: 290px!important;
+    padding-bottom: 30px!important;
+}
+.cardPassword {
+    width: 290px!important;
+    padding-bottom: 30px!important;
+}
+.cardText {
+    margin-bottom: 20px!important;
+}
+.box_flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px!important;
+}
+.box_flex-button {
+    margin-right: 10px!important;
+}
